@@ -6,20 +6,15 @@
 
 As an example, I have attached some of my favourite books 📚 along with their shopping links in the ``` Books_data.csv ``` file.
 
+
+
 ### Here's how it works : 👇
 
-1. After running all the code blocks, I get an input box to enter the Name of the Product (Book name is an example here) --
-
-![alt text](https://github.com/ShruAgarwal/AMAZON_and_FLIPKART--Price_Trackers/blob/main/1.png)
-
-
-
-2. You can enter your favorite Product name from the ```.csv``` file (One of my Book picks here! 📕)
-
-![alt text](https://github.com/ShruAgarwal/AMAZON_and_FLIPKART--Price_Trackers/blob/main/2.png)
+After running all the code blocks --
+1. I get an input box to enter the Name of the Product
+2. I've entered one of my Book 📕 picks from the ```Books_data.csv``` file
+3. Info fetched from AMAZON and FLIPKART about the product (Book) is shown up!
 
 
 
-3. Info about the Product from AMAZON & FLIPKART comes up! 
-
-![alt text](https://github.com/ShruAgarwal/AMAZON_and_FLIPKART--Price_Trackers/blob/main/3.png)
+![alt text](https://github.com/ShruAgarwal/AMAZON_and_FLIPKART--Price_Trackers/blob/main/Video_demo.gif)
